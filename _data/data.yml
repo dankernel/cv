@@ -124,6 +124,7 @@ projects:
         tagline: |
             - 산업용 반도체 베이커 장비 전산화를 위해 대시보드를 인식 자동화 솔루션을 개발
             - `MFC`기반으로 대시보드 인식은 `KNN`, 통신은 `MQTT`, DB는 `MySQL` 이용
+        image: "Factory-Demo-01.jpg"
      
       - title: VR 햅틱 솔루션 개발
         link: "#"
