@@ -93,25 +93,17 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Edge AI transformation
+        link: "#"
+        tagline: "딥러닝 모델 경량화, NVIDIA Jetson, Blaize GSP 환경에서 Intel distiller, ONNX, OpenVX를 이용해 임베디드 환경에서 딥러닝 모델 포팅"
+
+      - title: 인공지능 솔루션 개발
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "보험금 자동 지급 심사 솔루션(OCR), 서울시 노후 경유 차량 인식 솔루션 개발(Object detection)"
 
-      - title: DevStudio
+      - title: AR 프로젝터 개발
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: ""
 
 skills:
     title: Skills &amp; Proficiency
