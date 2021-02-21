@@ -17,7 +17,7 @@ sidebar:
     website: worklover.com #do not add http://
     linkedin: junhyung
     github: dankernel
-    telegram: # add your nickname without '@' sign
+    telegram: int80 # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: 
@@ -33,36 +33,28 @@ sidebar:
         level: ...
 
     interests:
-      - item: Climbing
+      - item: Photography
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Bike ride
         link:
 
 career-profile:
-    title: Career Profile
+    title: 안녕하세요, 박준형입니다.
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      안녕하세요, 박준형입니다.
+      Edge computing을 하고 있습니다. 딥러닝 모델을 경량화해서 임베디드 디바이스에 포팅하고 있습니다.
+      딥러닝, 임베디드, 운영체제에 관심이 많습니다.
 education:
-    - degree: 학부
+    - degree: 공학대학교 소프트웨어과
       university: 단국대학교
       time: 2013.03 - 2017.07
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        단국대학교 소프트웨어과를 졸업했습니다.
+        임베디드시스템 연구실에서 2013년부터 2016년까지 학부연구생으로 공부했습니다.
+        운영체제와 최적화를 연구했습니다.
+          - 2015 논문 Experimental Study for Linux Kernel Optimization on Embedded Boards
+          - 2016 논문 Kernel-level Direct Path for Fast Processing of Sensing Data in IoT
 experiences:
     - role: Edge AI Developer
       time: 2020.01 - Present
@@ -77,15 +69,18 @@ experiences:
       company: Kornic Automation
       details: |
         AR 프로젝터 개발
-          - Bullet point
-          - Bullet point
+          - Android porting/APP/JNI, ARM-A9, LVDS, OpenCV Embedding
+          - OpenCV, OCR
+          - AWS(VPC, lambda, ec2, S3, Cognito, API G/W, etc), Server manager
+          - RabbitMQ, MQTT, Python, ElasticSearch, Auth, etc
+          - PDF contents Authoring tool(C# WPF)
     - role: Software Engineer
       time: 2015.03 - 2018.08
       company: realhaptics
       details: |
         VR 햅틱 솔루션, Unity Plugin, 
+          - Ateml AVR, PCB Artwork, F/W
           - Unity
-          - Ateml AVR
           - Windows WPF
 projects:
     title: Projects
