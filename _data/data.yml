@@ -56,27 +56,24 @@ experiences:
       time: 2020.01 - Present
       company: MindsLab
       details: |
-        딥러닝 모델 경량화 및 Edge AI 개발
-          - Nvidia Jetson
-          - Blaize
-          - ONNX, OpenVX
+        **딥러닝 모델 경량화 및 Edge AI 개발**
+        - 사업부 내 개발된 딥러닝 모델을 경량화 하고 임베디드에 포팅하는 작업을 전담
+        - Edge AI 사업화를 위한 프레임워크 개발
+        - 솔루션 최적화
     - role: Software Engineer
       time: 2017.07 - 2019.12
       company: Kornic Automation
       details: |
-        AR 프로젝터 개발
-          - Android porting/APP/JNI, ARM-A9, LVDS, OpenCV Embedding
-          - OpenCV, OCR
-          - AWS(VPC, lambda, ec2, S3, Cognito, API G/W, etc), Server manager
-          - RabbitMQ, MQTT, Python, ElasticSearch, Auth, etc
-          - PDF contents Authoring tool(C# WPF)
+        **AR 프로젝터 개발**
+        선행기술연구 및 사업화를 위한 PoC 제품 개발
+        하드웨어 제품 개발을 위해 임베디드 환경에서의 소프트웨어 개발
     - role: Software Engineer
       time: 2015.03 - 2018.08
       company: realhaptics
       details: |
-        VR 햅틱 솔루션, Unity Plugin, 
-          - Ateml AVR, PCB Artwork, F/W
-          - Unity, Windows WPF
+        **VR 햅틱 솔루션 개발** 
+        - 해커톤 및 창업경진대회 수상으로 창업
+        - 하드웨어 제품 개발 및 개발 총괄을 담당
     - role: 학부연구생
       time: 2013.04 - 2016.08
       company: 단국대학교
@@ -98,12 +95,12 @@ projects:
             - aarch64 아키텍처 `포팅`
         youtube: "https://www.youtube.com/embed/-l1hvS9MXe4"
 
-      - title: 인공지능 솔루션 개발
+      - title: 딥러닝 솔루션 개발
         link: "#hook"
         tagline: |
             - 보험금 자동 지급 심사 솔루션 (`OCR`)
             - 서울시 노후 경유 차량 인식 솔루션 개발 (`Object detection`)
-            - 소프트웨어 `최적화`
+            - 소프트웨어 및 딥러닝 모델 `최적화`
         youtube: "https://www.youtube.com/embed/CL1YAW_tV14"
 
       - title: AR 프로젝터 개발
@@ -112,7 +109,7 @@ projects:
             - 카메라-프로젝터를 이용한 AR 프로젝터 제품 개발
             - `ARM-A9` 개발보드에서 `Android` 애플리케이션 및 `디바이스 드라이버` 개발
             - AWS 서버 백앤드 개발 `AWS`(VPC, lambda, ec2, S3, Cognito, API G/W, etc)
-            - PDF contents Authoring tool (`C#`, `WPF`)
+            - PDF contents Authoring tool 개발 (`C#`, `WPF`)
         
       - title: 산업용 반도체 베이커 머신 광학문자인식 자동화 솔루션 개발
         link: "#"
@@ -141,14 +138,14 @@ skills:
 
       - name: c/c++/Embedded
         level: 80%
+        
+      - name: AI
+        level: 80%
 
       - name: Python
         level: 80%
         
       - name: Android/Web/Java/C#
-        level: 75%
-
-      - name: AI
         level: 75%
 
 footer: >
