@@ -83,9 +83,10 @@ experiences:
       time: 2015.03 - 2018.08
       company: realhaptics
       details: |
-        VR 햅틱 솔루션 
-          - Bullet point
-          - Bullet point
+        VR 햅틱 솔루션, Unity Plugin, 
+          - Unity
+          - Ateml AVR
+          - Windows WPF
 projects:
     title: Projects
     intro: >
@@ -103,7 +104,20 @@ projects:
 
       - title: AR 프로젝터 개발
         link: "#"
-        tagline: ""
+        tagline: "카메라-프로젝터를 이용한 AR 프로젝터 제품 개발."
+        
+      - title: 산업용 반도체 베이커 머신 광학문자인식 자동화 솔루션 개발
+        link: "#"
+        tagline: "산업용 반도체 베이커 장비 전산화를 위해 대시보드를 인식 자동화 솔루션을 개발 함. MFC기반으로 대시보드 인식은 KNN 통신인 MQTT을 이용 함"
+     
+     - title: VR 햅틱 솔루션 개발
+        link: "#"
+        tagline: "VR 햅틱 솔루션 개발을 위해 하드웨어, 소프트웨어, 샘플 콘텐츠를 개발 함. 
+                  Ateml AVR 기반의 회로 설계, PCB디자인 하우징 설계 및 펌웨어 개발, 블루투스를 이용해 Host PC와 통신하는 윈도우 런타임 어플리케이션 개발.
+                  햅틱 패턴 저작을 위한 어플리케이션 개발.
+                  Unity에서 충돌을 인식, 충격량에 따라 하드웨어에 햅틱 패턴을 송신하는 플러그인을 개발 함.
+                  국내 어트렉션 주도 사업 참여 및 납품. 특허 출원 및 소프트웨어 저작권 등록 함."
+        
 
 skills:
     title: Skills &amp; Proficiency
