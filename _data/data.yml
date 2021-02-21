@@ -91,11 +91,12 @@ projects:
       - title: Edge AI transformation
         link: "#"
         tagline: "딥러닝 모델 경량화, NVIDIA Jetson, Blaize GSP 환경에서 Intel distiller, ONNX, OpenVX를 이용해 임베디드 환경에서 딥러닝 모델 포팅"
-        youtube: "https://www.youtube.com/embed/yodXsojRrqI"
+        youtube: "https://www.youtube.com/embed/-l1hvS9MXe4"
 
       - title: 인공지능 솔루션 개발
         link: "#hook"
         tagline: "보험금 자동 지급 심사 솔루션(OCR), 서울시 노후 경유 차량 인식 솔루션 개발(Object detection)"
+        youtube: "https://www.youtube.com/embed/CL1YAW_tV14"
 
       - title: AR 프로젝터 개발
         link: "#"
