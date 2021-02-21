@@ -88,9 +88,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Edge AI transformation <iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+      - title: Edge AI transformation
         link: "#"
-        tagline: "딥러닝 모델 경량화, NVIDIA Jetson, Blaize GSP 환경에서 Intel distiller, ONNX, OpenVX를 이용해 임베디드 환경에서 딥러닝 모델 포팅"
+        tagline: "딥러닝 모델 경량화, NVIDIA Jetson, Blaize GSP 환경에서 Intel distiller, ONNX, OpenVX를 이용해 임베디드 환경에서 딥러닝 모델 포팅 <iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>"
 
       - title: 인공지능 솔루션 개발
         link: "#hook"
