@@ -93,31 +93,40 @@ projects:
       - title: Edge AI transformation
         link: "#"
         tagline: |
-          딥러닝 모델 경량화, NVIDIA Jetson, Blaize GSP 환경에서 Intel distiller, ONNX, OpenVX를 이용해 임베디드 환경에서 딥러닝 모델 포팅
-            - `AA`BB
-            - BB
+            - 딥러닝 모델 경량화, NVIDIA Jetson, Blaize GSP 환경에서 Intel distiller, ONNX, OpenVX를 이용해 임베디드 환경에서 딥러닝 모델 포팅
+            - aarch64 아키텍처 포팅
+            - `NVIDIA Jetson`, `Blaize GSP`, `Intel distiller`, `ONNX`, `OpenVX`
         youtube: "https://www.youtube.com/embed/-l1hvS9MXe4"
 
       - title: 인공지능 솔루션 개발
         link: "#hook"
-        tagline: "보험금 자동 지급 심사 솔루션(OCR), 서울시 노후 경유 차량 인식 솔루션 개발(Object detection)"
+        tagline: |
+            - 보험금 자동 지급 심사 솔루션 `OCR`
+            - 서울시 노후 경유 차량 인식 솔루션 개발 `Object detection`
+            - 소프트웨어 최적화
         youtube: "https://www.youtube.com/embed/CL1YAW_tV14"
 
       - title: AR 프로젝터 개발
         link: "#"
-        tagline: "카메라-프로젝터를 이용한 AR 프로젝터 제품 개발."
+        tagline: |
+            - 카메라-프로젝터를 이용한 AR 프로젝터 제품 개발
+            - AWS 서버 백앤드 개발 `AWS`(VPC, lambda, ec2, S3, Cognito, API G/W, etc)
+            - PDF contents Authoring tool (`C#`, `WPF`)
         
       - title: 산업용 반도체 베이커 머신 광학문자인식 자동화 솔루션 개발
         link: "#"
-        tagline: "산업용 반도체 베이커 장비 전산화를 위해 대시보드를 인식 자동화 솔루션을 개발 함. MFC기반으로 대시보드 인식은 KNN 통신인 MQTT을 이용 함"
+        tagline: |
+            - 산업용 반도체 베이커 장비 전산화를 위해 대시보드를 인식 자동화 솔루션을 개발
+            - `MFC`기반으로 대시보드 인식은 `KNN` 통신은 `MQTT`을 이용 함
      
       - title: VR 햅틱 솔루션 개발
         link: "#"
-        tagline: "VR 햅틱 솔루션 개발을 위해 하드웨어, 소프트웨어, 샘플 콘텐츠를 개발 함. 
-                  Ateml AVR 기반의 회로 설계, PCB디자인 하우징 설계 및 펌웨어 개발, 블루투스를 이용해 Host PC와 통신하는 윈도우 런타임 어플리케이션 개발.
-                  햅틱 패턴 저작을 위한 어플리케이션 개발.
-                  Unity에서 충돌을 인식, 충격량에 따라 하드웨어에 햅틱 패턴을 송신하는 플러그인을 개발 함.
-                  국내 어트렉션 주도 사업 참여 및 납품. 특허 출원 및 소프트웨어 저작권 등록 함."
+        tagline: |
+            - VR 햅틱 솔루션 개발을 위해 하드웨어, 소프트웨어, 샘플 콘텐츠를 개발 함. 
+            - Ateml AVR 기반의 `회로 설계`, `PCB디자인` `하우징 설계` 및 `펌웨어 개발`, 블루투스를 이용해 Host PC와 통신하는 윈도우 `WPF 어플리케이션` 개발.
+            - 햅틱 패턴 저작을 위한 어플리케이션 개발.
+            - Unity에서 충돌을 인식, 충격량에 따라 하드웨어에 햅틱 패턴을 송신하는 플러그인을 개발 함.
+            - 국내 어트렉션 주도 사업 참여 및 납품. `특허` 출원 및 소프트웨어 `저작권 등록` 함."
         youtube: "https://www.youtube.com/embed/USRA5c1sJRE"
         
 
