@@ -80,8 +80,8 @@ experiences:
       details: |
         **OS와 최적화를 연구**
         - 임베디드시스템 연구실에서 2013년부터 2016년까지 학부연구생으로 공부
-        - [2015 논문 Experimental Study for Linux Kernel Optimization on Embedded Boards](./assets/images/Experimental Study for Linux Kernel Optimization on Embedded Boards.pdf)
-        - 2016 논문 Kernel-level Direct Path for Fast Processing of Sensing Data in IoT
+        - 2015 논문 [Experimental Study for Linux Kernel Optimization on Embedded Boards](./assets/images/Experimental Study for Linux Kernel Optimization on Embedded Boards.pdf)
+        - 2016 논문 [Kernel-level Direct Path for Fast Processing of Sensing Data in IoT](./assets/images/Kernel-level Direct Path for Fast Processing of Sensing Data in IoT.pdf)
 projects:
     title: Projects
     intro: >
