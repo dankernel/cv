@@ -44,7 +44,7 @@ career-profile:
     summary: |
       안녕하세요, 박준형입니다.
       Edge computing을 하고 있습니다. 딥러닝 모델을 경량화해서 임베디드 디바이스에 포팅하고 있습니다.
-      딥러닝, 임베디드, 운영체제에 관심이 많습니다.
+      딥러닝, 임베디드, 운영체제에 관심이 많습니다. 호기심이 많아서 관심 분야가 넓습니다.
 education:
     - degree: 공학대학교 소프트웨어과
       university: 단국대학교
@@ -65,8 +65,8 @@ experiences:
       company: Kornic Automation
       details: |
         **AR 프로젝터 개발**
-        선행기술연구 및 사업화를 위한 PoC 제품 개발
-        하드웨어 제품 개발을 위해 임베디드 환경에서의 소프트웨어 개발
+        - 선행기술연구 및 사업화를 위한 PoC 제품 개발
+        - 하드웨어 제품 개발을 위해 임베디드 환경에서의 소프트웨어 개발
     - role: Software Engineer
       time: 2015.03 - 2018.08
       company: realhaptics
@@ -78,8 +78,8 @@ experiences:
       time: 2013.04 - 2016.08
       company: 단국대학교
       details: |
+        **`OS`와 `최적화`를 연구하고 `논문`을 작성**
         임베디드시스템 연구실에서 2013년부터 2016년까지 학부연구생으로 공부했습니다.
-        운영체제와 `최적화`를 연구하고 `논문`을 작성했습니다.
           - 2015 논문 Experimental Study for Linux Kernel Optimization on Embedded Boards
           - 2016 논문 Kernel-level Direct Path for Fast Processing of Sensing Data in IoT
 projects:
