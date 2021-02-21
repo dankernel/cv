@@ -108,6 +108,7 @@ projects:
         tagline: |
             - `ESP32` 기반 E-paper 개발, `PCB artwork` 설계
             - 디스플레이 드라이버  GutHub : https://github.com/dankernel/esp32_e-paper
+        image: "PDF-Tool.gif"
 
       - title: AR 프로젝터 개발
         link: "#"
