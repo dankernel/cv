@@ -50,7 +50,7 @@ education:
       university: 단국대학교
       time: 2013.03 - 2017.07
       details: |
-        단국대학교 소프트웨어과를 졸업
+        단국대학교 소프트웨어과 졸업
 experiences:
     - role: Edge AI Developer
       time: 2020.01 - Present
@@ -116,7 +116,7 @@ projects:
             - 카메라-프로젝터를 이용한 AR 프로젝터 제품 개발
             - `ARM-A9`(`RK3399`) 개발보드에서 `Android` 애플리케이션 및 `디바이스 드라이버` 개발
             - AWS 서버 백앤드 개발 `AWS`(VPC, lambda, ec2, S3, Cognito, API G/W, etc)
-            - PDF contents Authoring tool 개발 (`C#`, `WPF`)
+            - PDF Contents Authoring tool 개발 (`C#`, `WPF`)
         image: "MARS-Demo-01.gif"
         
       - title: 산업용 반도체 베이커 머신 광학문자인식 자동화 솔루션 개발
